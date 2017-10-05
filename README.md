@@ -12,4 +12,4 @@ Uses the Fetch API to make requests to [http://numbersapi.com](http://numbersapi
 
 ## Screenshot
 
-![web page screenshot]( "web page screenshot")
+![web page screenshot](https://github.com/michellejanosi/number-facts/blob/master/screenshot.png "web page screenshot")
