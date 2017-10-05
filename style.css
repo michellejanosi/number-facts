@@ -5,3 +5,7 @@ body {
 #fact {
   display: none;
 }
+
+.card {
+  top: 20vh;
+}
